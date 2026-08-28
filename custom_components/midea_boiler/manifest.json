@@ -1,0 +1,11 @@
+{
+  "domain": "midea_boiler",
+  "name": "Midea Boiler",
+  "codeowners": ["@Grind34"],
+  "config_flow": true,
+  "documentation": "https://github.com/Grind34/midea-boiler",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/Grind34/midea-boiler/issues",
+  "requirements": [],
+  "version": "1.0.0"
+}
